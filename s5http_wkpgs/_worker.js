@@ -1,5 +1,5 @@
 const pyip = ['[2a00:1098:2b::1:6815:5881]','pyip.ygkkk.dpdns.org']; //自定义proxyip：''之间可使用IP或者域名，IPV6需[]，不支持带端口
-const token = '';//''之间可使用任意字符密码，客户端token保持一致
+const token = '8caac4d6-a7c1-4c10-8dda-8cfd39a1caeb';//''之间可使用任意字符密码，客户端token保持一致
 
 const WS_READY_STATE_OPEN = 1;
 const WS_READY_STATE_CLOSING = 2;
